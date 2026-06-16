@@ -100,7 +100,7 @@ src/
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/your-org/ai-courtroom-builder.git
+git clone https://github.com/lightyagami2599/Courtroom_Builder-.git
 cd ai-courtroom-builder
 npm install
 ```
